@@ -1,0 +1,20 @@
+/Users/ian/workspace/SwarmSim/bin:/Users/ian/Applications/Eclipse 3.5/configuration/org.eclipse.osgi/bundles/333/1/.cp/lib/scala-library.jar:/Users/ian/Applications/Eclipse 3.5/configuration/org.eclipse.osgi/bundles/333/1/.cp/lib/scala-dbc.jar:/Users/ian/Applications/Eclipse 3.5/configuration/org.eclipse.osgi/bundles/333/1/.cp/lib/scala-swing.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/classes.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/ui.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/laf.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/jsse.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/jce.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/charsets.jar:/System/Library/Java/Extensions/AppleScriptEngine.jar:/System/Library/Java/Extensions/dns_sd.jar:/System/Library/Java/Extensions/j3daudio.jar:/System/Library/Java/Extensions/j3dcore.jar:/System/Library/Java/Extensions/j3dutils.jar:/System/Library/Java/Extensions/jai_codec.jar:/System/Library/Java/Extensions/jai_core.jar:/System/Library/Java/Extensions/mlibwrapper_jai.jar:/System/Library/Java/Extensions/MRJToolkit.jar:/System/Library/Java/Extensions/QTJava.zip:/System/Library/Java/Extensions/vecmath.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/lib/ext/apple_provider.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/lib/ext/dnsns.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/lib/ext/localedata.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/lib/ext/sunjce_provider.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/lib/ext/sunpkcs11.jar
+-------
+/Users/ian/workspace/SwarmSim/src/Main.scala -> /Users/ian/workspace/SwarmSim/src/Main.scala
+/Users/ian/workspace/SwarmSim/src/Main.scala -> /Users/ian/workspace/SwarmSim/src/QuadBlock.scala
+/Users/ian/workspace/SwarmSim/src/QuadBlock.scala -> /Users/ian/workspace/SwarmSim/src/QuadBlock.scala
+-------
+/Users/ian/workspace/SwarmSim/src/Main.scala -> /Users/ian/workspace/SwarmSim/bin/Main$$anonfun$main$1.class
+/Users/ian/workspace/SwarmSim/src/Main.scala -> /Users/ian/workspace/SwarmSim/bin/Main$$anonfun$main$2.class
+/Users/ian/workspace/SwarmSim/src/Main.scala -> /Users/ian/workspace/SwarmSim/bin/Main.class
+/Users/ian/workspace/SwarmSim/src/Main.scala -> /Users/ian/workspace/SwarmSim/bin/Main$.class
+/Users/ian/workspace/SwarmSim/src/Main.scala -> /Users/ian/workspace/SwarmSim/bin/Main$$anonfun$main$1$$anonfun$apply$1.class
+/Users/ian/workspace/SwarmSim/src/QuadBlock.scala -> /Users/ian/workspace/SwarmSim/bin/QuadBlock$$anonfun$swap$1.class
+/Users/ian/workspace/SwarmSim/src/QuadBlock.scala -> /Users/ian/workspace/SwarmSim/bin/QuadBlock$$anonfun$crossCount$1.class
+/Users/ian/workspace/SwarmSim/src/QuadBlock.scala -> /Users/ian/workspace/SwarmSim/bin/QuadBlock$$anonfun$crossCount$1$$anonfun$apply$3.class
+/Users/ian/workspace/SwarmSim/src/QuadBlock.scala -> /Users/ian/workspace/SwarmSim/bin/QuadBlock$$anonfun$connectionsTo$1.class
+/Users/ian/workspace/SwarmSim/src/QuadBlock.scala -> /Users/ian/workspace/SwarmSim/bin/QuadBlock$$anonfun$swap$1$$anonfun$apply$2.class
+/Users/ian/workspace/SwarmSim/src/QuadBlock.scala -> /Users/ian/workspace/SwarmSim/bin/QuadBlock$$anonfun$optimize$1.class
+/Users/ian/workspace/SwarmSim/src/QuadBlock.scala -> /Users/ian/workspace/SwarmSim/bin/QuadBlock$$anonfun$optimize$2.class
+/Users/ian/workspace/SwarmSim/src/QuadBlock.scala -> /Users/ian/workspace/SwarmSim/bin/QuadBlock.class
+/Users/ian/workspace/SwarmSim/src/QuadBlock.scala -> /Users/ian/workspace/SwarmSim/bin/QuadBlock$$anonfun$connectionsTo$1$$anonfun$apply$1.class
